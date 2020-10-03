@@ -1,40 +1,28 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "João Almeida",
+    "occupation": "Software Engineer",
+    "description": "I'm a Software Engineer based in Póvoa de Varzim, passionate about Front-End development and a true lover of React, React-Native and Coffee",
+    "image": "my_portfolio_pic.jpg",
+    "bio": "My name is João, I'm a Software Engineer. Currently, I'm working at MOG Technologies developing multi-platforms apps.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "joao88vsc@gmail.com",
+    
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "city": "Póvoa de Varzim",
+      "state": "PT"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/jo%C3%A3oalmeida/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/JoaoCEAlmeida",
         "className": "fa fa-github"
       }
     ]
@@ -43,24 +31,41 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "Faculty of Engineering of University of Porto",
+        "degree": "Masters in Informatics Engineering",
+        "graduated": "January 2018",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
+        "company": "MOG Technologies",
+        "title": "Software Engineer",
+        "years": "Sep 2019 - Present",
         "description": "Teaching ReactJS to thousands of students."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Fraunhofer AICOS",
+        "title": "Junior Scientist",
+        "years": "Sep 2018 - Aug 2019",
+        "projects": [
+          { 
+            "name": "Physio@Home",
+            "link": "https://www.aicos.fraunhofer.pt/en/our_work/projects/physioathome.html",
+            "description": "Conducted supervised and unsupervised pilots at a rehabilitation clinic for three months, using observation and interview methods to: (1) collect meaningful insights; (2) identify system failures; (3) identify usability problems and (4) propose  solutions."
+          },
+          { 
+            "name": "MpDs",
+            "link": "https://www.aicos.fraunhofer.pt/en/our_work/projects/mpds.html",
+            "description": "(1) Conducted usability tests to assess the user experience; (2) Improved the user interface in an iterative process using low-fidelity prototypes developed with the Quant-UX prototyping tool."
+          }
+        ]      
+      },
+      {
+        "company": "Fraunhofer AICOS",
+        "title": "Research Assistant",
+        "years": "Feb 2018 - Jul 2018",
+        "description": "Analysis, design and evaluation of a restaurant recommendation platform for people with food allergies. Research based on a Participatory Design methodology: (1) interviewed in detail people living with food allergies and analyzed the results with the thematic analysis method; (2) created low-fidelity prototypes using the Quant-UX prototyping tool and (3) tested the usability of the prototype with end-users."
       }
     ],
     "skills": [

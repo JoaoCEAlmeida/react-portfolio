@@ -27,7 +27,7 @@ class Portfolio extends Component {
       <section id="portfolio">
 
       <div className="row">
-
+s
          <div className="twelve columns collapsed">
 
             <h1>Check Out Some of My Works.</h1>

@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 class Resume extends Component {
   render() {
-
     if(this.props.data){
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
@@ -10,9 +9,16 @@ class Resume extends Component {
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <p>{education.description}</p></div>
       })
-      var work = this.props.data.work.map(function(work){
-        return <div key={work.company}><h3>{work.company}</h3>
+      var work = this.props.data.work.map(function(work,index){
+       
+        return <div key={`${work.company}-${index}`}><h3>{work.company}</h3>
             <p className="info">{work.title}<span>&bull;</span> <em className="date">{work.years}</em></p>
+            {work.projects && work.projects.map(projectInformation=>{
+             return <div key={projectInformation.name}>
+              <a href={projectInformation.link} target="_blank">{projectInformation.name}</a>
+              <p>{projectInformation.description}</p>
+              </div>
+            })}
             <p>{work.description}</p>
         </div>
       })
