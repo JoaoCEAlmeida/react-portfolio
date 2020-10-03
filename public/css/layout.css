@@ -245,11 +245,9 @@ ul#nav li.current a { color: #F06000; }
 #about .contact-details { width: 41.66667%; }
 #about .download {
    width: 58.33333%;
-   padding-top: 6px;
 }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
-   margin-top: 6px;
    background: #444;
 }
 #about .download .button:hover {
@@ -274,6 +272,8 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
+#resume .download a  { color: #fff; }
+
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -300,7 +300,6 @@ ul#nav li.current a { color: #F06000; }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
-   margin-bottom: 18px;
    margin-top: 9px;
 }
 #resume .info span {
@@ -310,6 +309,18 @@ ul#nav li.current a { color: #F06000; }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
+}
+
+#resume .download .button {
+   background: #444;
+}
+#resume .download .button:hover {
+   background: #11ABB0;
+   color: #fff
+}
+#resume .download .button i {
+   margin-right: 15px;
+   font-size: 20px;
 }
 
 /*----------------------------------------------*/

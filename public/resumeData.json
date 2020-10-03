@@ -13,7 +13,6 @@
       "state": "PT"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "linkedin",
@@ -28,13 +27,14 @@
     ]
   },
   "resume": {
+    "resumedownload": "https://drive.google.com/file/d/1UcWliG3uoYff3unYbgv6TPZagoSDgSwT/view?usp=sharing",
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
         "school": "Faculty of Engineering of University of Porto",
         "degree": "Masters in Informatics and Computing Engineering",
         "graduated": "January 2018",
-        "description": "Average 15 out of 20."
+        "description": "Average: 15 out of 20."
       }
     ],
     "work": [

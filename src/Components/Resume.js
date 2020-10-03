@@ -9,6 +9,8 @@ class Resume extends Component {
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <p>{education.description}</p></div>
       })
+      var resumeDownload = this.props.data.resumedownload;
+
       var work = this.props.data.work.map(function(work,index){
        
         return <div key={`${work.company}-${index}`}><h3>{work.company}</h3>
@@ -30,7 +32,6 @@ class Resume extends Component {
 
     return (
       <section id="resume">
-
       <div className="row education">
          <div className="three columns header-col">
             <h1><span>Education</span></h1>
@@ -77,6 +78,12 @@ class Resume extends Component {
 				</div>
 			</div>
       </div>
+
+              <div className="row download">
+            <p>
+              <a href={resumeDownload} className="button" target="_blanck"><i className="fa fa-download"></i>Resume</a>
+            </p>
+        </div>
    </section>
     );
   }
