@@ -7,7 +7,7 @@
     "bio": "My name is João, I'm a Software Engineer. Currently, I'm working at MOG Technologies developing multi-platforms apps.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "joao88vsc@gmail.com",
-    
+
     "address": {
       "city": "Póvoa de Varzim",
       "state": "PT"
@@ -33,7 +33,7 @@
       {
         "school": "Faculty of Engineering of University of Porto",
         "degree": "Masters in Informatics and Computing Engineering",
-        "graduated": "January 2018",
+        "graduated": "July 2018",
         "description": "Average: 15 out of 20."
       }
     ],
@@ -49,17 +49,17 @@
         "title": "Junior Scientist",
         "years": "Sep 2018 - Aug 2019",
         "projects": [
-          { 
+          {
             "name": "Physio@Home",
             "link": "https://www.aicos.fraunhofer.pt/en/our_work/projects/physioathome.html",
             "description": "Conducted supervised and unsupervised pilots at a rehabilitation clinic for three months, using observation and interview methods to: (1) collect meaningful insights; (2) identify system failures; (3) identify usability problems and (4) propose  solutions."
           },
-          { 
+          {
             "name": "MpDs",
             "link": "https://www.aicos.fraunhofer.pt/en/our_work/projects/mpds.html",
             "description": "(1) Conducted usability tests to assess the user experience; (2) Improved the user interface in an iterative process using low-fidelity prototypes developed with the Quant-UX prototyping tool."
           }
-        ]      
+        ]
       },
       {
         "company": "Fraunhofer AICOS",
@@ -71,61 +71,43 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "100%",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "95%",
+        "icon": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "60%",
+        "icon": "https://www.clipartmax.com/png/middle/218-2181371_logo-git-git-icon.png"
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "55%",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "80%",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "80%",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Netflix Clone built with ReactJS",
         "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://netflix-clone-f5c02.web.app/"
       }
     ]
   },
@@ -135,19 +117,19 @@
         "text": "The Practical Work of Ensuring Effective Use of Serious Games in a Rehabilitation Clinic: A Qualitative Study",
         "textURL": "https://rehab.jmir.org/2020/1/e15428/",
         "user": "Journal JMIR Rehabilitation and Assisted Technologies 2020",
-        "userURL":"https://rehab.jmir.org/"
+        "userURL": "https://rehab.jmir.org/"
       },
       {
         "text": "Automated Mobile Image Acquisition of Skin Wounds using Real-Time Deep Neural Networks",
         "textURL": "https://link.springer.com/chapter/10.1007/978-3-030-39343-4_6",
         "user": "Conference MIUA 2019",
-        "userURL":"https://miua2019.com/"
+        "userURL": "https://miua2019.com/"
       },
       {
         "text": "Using Inertial Sensors to Evaluate Exercise Correctness in Electromyography-based Home  Rehabilitation Systems",
         "textURL": "https://ieeexplore.ieee.org/abstract/document/8802152",
         "user": "Conference MeMeA 2019",
-        "userURL":"https://memea2019.ieee-ims.org/"
+        "userURL": "https://memea2019.ieee-ims.org/"
       }
     ]
   }
