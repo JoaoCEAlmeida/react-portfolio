@@ -106,8 +106,14 @@
       {
         "title": "Netflix Clone",
         "category": "Netflix Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
+        "image": "netflix.jpg",
         "url": "https://netflix-clone-f5c02.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Full E-Comm Store, Amazon Clone built with ReactJS",
+        "image": "amazon-clone.jpg",
+        "url": "https://clone-eaea5.web.app/"
       }
     ]
   },
