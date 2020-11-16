@@ -114,6 +114,12 @@
         "category": "Full E-Comm Store, Amazon Clone built with ReactJS and Firebase",
         "image": "amazon-clone.jpg",
         "url": "https://clone-e3e01.web.app/"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with ReactJS and Firebase",
+        "image": "whatsapp-clone.jpg",
+        "url": "https://whatsapp-clone-1eb25.web.app/"
       }
     ]
   },
