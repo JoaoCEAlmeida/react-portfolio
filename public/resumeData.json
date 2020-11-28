@@ -6,7 +6,7 @@
     "image": "my_portfolio_pic.jpg",
     "bio": "My name is João, I'm a Software Engineer. Currently, I'm working at MOG Technologies developing multi-platforms apps.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "joao88vsc@gmail.com",
+    "email": "joao.c.e.almeida@gmail.com",
 
     "address": {
       "city": "Póvoa de Varzim",
@@ -42,7 +42,13 @@
         "company": "MOG Technologies",
         "title": "Software Engineer",
         "years": "Sep 2019 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "projects": [
+          {
+            "name": "Vizzi",
+            "link": "https://www.mog-technologies.com/pt/products/ott-platform/",
+            "description": "Developing an OTT platform targeting multi-platforms using a React Native framework named ReNative. With the same code based the OTT platform is available for Web, Mobile (Android/iOS), AndroidTV, LG WebOS, Tizen TV with the possibilty to be extended for other platforms."
+          }
+        ]
       },
       {
         "company": "Fraunhofer AICOS",
@@ -75,19 +81,19 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
       },
       {
+        "name": "React-Native",
+        "level": "100%",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
+      },
+      {
         "name": "CSS",
         "level": "95%",
         "icon": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"
       },
       {
-        "name": "Git",
-        "level": "60%",
-        "icon": "https://www.clipartmax.com/png/middle/218-2181371_logo-git-git-icon.png"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
+        "name": "SASS",
+        "level": "95%",
+        "icon": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"
       },
       {
         "name": "HTML5",
@@ -95,9 +101,14 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
       },
       {
-        "name": "MongoDB",
+        "name": "JAVASCRIPT",
         "level": "80%",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
+      },
+      {
+        "name": "Git",
+        "level": "60%",
+        "icon": "https://www.clipartmax.com/png/middle/218-2181371_logo-git-git-icon.png"
       }
     ]
   },
@@ -105,21 +116,27 @@
     "projects": [
       {
         "title": "Netflix Clone",
-        "category": "Netflix Clone built with ReactJS",
+        "category": "Netflix Clone built with ReactJS and Firebase to hosting.",
         "image": "netflix.jpg",
         "url": "https://netflix-clone-f5c02.web.app/"
       },
       {
         "title": "Amazon Clone",
-        "category": "Full E-Comm Store, Amazon Clone built with ReactJS and Firebase",
+        "category": "Full E-Comm Store, Amazon Clone built with ReactJS and Firebase to handle user authentication, store data and hosting.",
         "image": "amazon-clone.jpg",
         "url": "https://clone-e3e01.web.app/"
       },
       {
         "title": "WhatsApp Clone",
-        "category": "WhatsApp Clone built with ReactJS and Firebase",
+        "category": "WhatsApp Clone built with ReactJS and Firebase to handle Google authentication and hosting.",
         "image": "whatsapp-clone.jpg",
         "url": "https://whatsapp-clone-1eb25.web.app/"
+      },
+      {
+        "title": "Spotify Clone",
+        "category": "Spotify Clone built with ReactJS and Spotify API to handle user authentication and songs information.",
+        "image": "spotify-clone.jpg",
+        "url": "https://spotify-clone-1c2ae.web.app/"
       }
     ]
   },
