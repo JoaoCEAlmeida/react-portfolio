@@ -137,6 +137,12 @@
         "category": "Spotify Clone built with ReactJS and Spotify API to handle user authentication and songs information.",
         "image": "spotify-clone.jpg",
         "url": "https://spotify-clone-1c2ae.web.app/"
+      },
+      {
+        "title": "Twitter Clone",
+        "category": "Twitter Clone Clone built with ReactJS and Firebase to store data and hosting.",
+        "image": "twitter-clone.jpg",
+        "url": "https://twitter-clone-2f4e1.web.app/"
       }
     ]
   },
