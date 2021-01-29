@@ -26,7 +26,7 @@
     ]
   },
   "resume": {
-    "resumedownload": "https://drive.google.com/file/d/1UcWliG3uoYff3unYbgv6TPZagoSDgSwT/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1m28JEqnqRMgWhwB-P883cj2m1Cimj7RF/view?usp=sharing",
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
@@ -45,7 +45,7 @@
           {
             "name": "Vizzi",
             "link": "https://www.mog-technologies.com/pt/products/ott-platform/",
-            "description": "Developing an OTT platform targeting multi-platforms using a React Native framework named ReNative. With the same code base the OTT platform is available for Web, Mobile (Android/iOS), AndroidTV, LG WebOS, Tizen TV with the possibilty to be extended for other platforms."
+            "description": "Developing an OTT platform targeting multi-platforms using a React Native framework named ReNative. With the same code base the OTT platform is available for Web, Mobile (Android/iOS), AndroidTV, LG WebOS, Tizen TV with the possibility to be extended to other platforms."
           }
         ]
       },
