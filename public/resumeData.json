@@ -145,7 +145,7 @@
       },
       {
         "title": "Empowering Local Tourism",
-        "category": "Empowering local tourism built with ReactJS and vercell to hosting. Use google calendar api to show events.",
+        "category": "Empowering local tourism built with ReactJS and vercel to hosting. Use google calendar api to show events.",
         "image": "local-tourism.jpg",
         "url": "https://pelitas.vercel.app/"
       }
