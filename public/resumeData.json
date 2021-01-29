@@ -46,7 +46,7 @@
           {
             "name": "Vizzi",
             "link": "https://www.mog-technologies.com/pt/products/ott-platform/",
-            "description": "Developing an OTT platform targeting multi-platforms using a React Native framework named ReNative. With the same code based the OTT platform is available for Web, Mobile (Android/iOS), AndroidTV, LG WebOS, Tizen TV with the possibilty to be extended for other platforms."
+            "description": "Developing an OTT platform targeting multi-platforms using a React Native framework named ReNative. With the same code base the OTT platform is available for Web, Mobile (Android/iOS), AndroidTV, LG WebOS, Tizen TV with the possibilty to be extended for other platforms."
           }
         ]
       },
@@ -77,37 +77,37 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%",
+        "level": "90%",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
       },
       {
         "name": "React-Native",
-        "level": "100%",
+        "level": "90%",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
       },
       {
         "name": "CSS",
-        "level": "95%",
+        "level": "90%",
         "icon": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"
       },
       {
         "name": "SASS",
-        "level": "95%",
+        "level": "80%",
         "icon": "https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"
       },
       {
         "name": "HTML5",
-        "level": "80%",
+        "level": "90%",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
       },
       {
         "name": "JAVASCRIPT",
-        "level": "80%",
+        "level": "90%",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
       },
       {
         "name": "Git",
-        "level": "60%",
+        "level": "90%",
         "icon": "https://www.clipartmax.com/png/middle/218-2181371_logo-git-git-icon.png"
       }
     ]
@@ -143,6 +143,12 @@
         "category": "Twitter Clone Clone built with ReactJS and Firebase to store data and hosting.",
         "image": "twitter-clone.jpg",
         "url": "https://twitter-clone-2f4e1.web.app/"
+      },
+      {
+        "title": "Empowering Local Tourism",
+        "category": "Empowering local tourism built with ReactJS and vercell to hosting. Use google calendar api to show events.",
+        "image": "local-tourism.jpg",
+        "url": "https://pelitas.vercel.app/"
       }
     ]
   },
