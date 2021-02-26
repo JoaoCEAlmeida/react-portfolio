@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "I'm a Software Engineer based in Póvoa de Varzim, passionate about Front-End development and a true lover of React, React-Native and Coffee.",
     "image": "my_portfolio_pic.jpg",
-    "bio": "My name is João, I'm a Software Engineer. Currently, I'm working at MOG Technologies developing multi-platforms apps.",
+    "bio": "My name is João, I'm a Software Engineer. Currently, working at MOG Technologies developing multi-platforms apps. I consider myself as person who likes to explore new cultures, people and places. Also a big fan of football, music and coffee.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "joao.c.e.almeida@gmail.com",
 
@@ -45,7 +45,7 @@
           {
             "name": "Vizzi",
             "link": "https://www.mog-technologies.com/pt/products/ott-platform/",
-            "description": "Developing an OTT platform targeting multi-platforms using a React Native framework named ReNative. With the same code base the OTT platform is available for Web, Mobile (Android/iOS), AndroidTV, LG WebOS, Tizen TV with the possibility to be extended to other platforms."
+            "description": "Developing an OTT platform targeting multiple devices using a React Native framework named ReNative. With the same code base the OTT platform is available for Web, Mobile (Android/iOS), AndroidTV, LG WebOS, Tizen TV with the possibility to be extended to other platforms."
           }
         ]
       },
@@ -148,6 +148,12 @@
         "category": "Empowering local tourism built with ReactJS and vercel to hosting. Use google calendar api to show events.",
         "image": "local-tourism.jpg",
         "url": "https://pelitas.vercel.app/"
+      },
+      {
+        "title": "Slack Clone",
+        "category": "Slack Clone built with ReactJS, REDUX, Styled components & Firebase Hooks",
+        "image": "slack-clone.jpg",
+        "url": "https://slack-clone-95372.web.app/"
       }
     ]
   },
