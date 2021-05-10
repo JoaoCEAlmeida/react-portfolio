@@ -2,7 +2,7 @@
   "main": {
     "name": "João Almeida",
     "occupation": "Software Engineer",
-    "description": "I'm a Software Engineer based in Póvoa de Varzim, passionate about Front-End development and a true lover of React, React-Native and Coffee.",
+    "description": "I'm a Software Engineer based in Póvoa de Varzim, passionate about Front-End development mainly focused on React, React-Native development.",
     "image": "my_portfolio_pic.jpg",
     "bio": "My name is João, I'm a Software Engineer. Currently, working at MOG Technologies developing multi-platforms apps. I consider myself as person who likes to explore new cultures, people and places. Also a big fan of football, music and coffee.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -26,7 +26,7 @@
     ]
   },
   "resume": {
-    "resumedownload": "https://drive.google.com/file/d/1m28JEqnqRMgWhwB-P883cj2m1Cimj7RF/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/127dIsCGjyrH_bUD9KJUivh7zQQ8c1r-i/view?usp=sharing",
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
@@ -159,6 +159,12 @@
   },
   "testimonials": {
     "testimonials": [
+      {
+        "text": "Avoiding Reactions Outside the Home: Challenges, Strategies, and Opportunities to Enhance Dining Out Experiences of People with Food Hypersensitivities",
+        "textURL": "https://dl.acm.org/doi/10.1145/3411764.3445662",
+        "user": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+        "userURL": "https://dl.acm.org/conference/chi"
+      },
       {
         "text": "The Practical Work of Ensuring Effective Use of Serious Games in a Rehabilitation Clinic: A Qualitative Study",
         "textURL": "https://rehab.jmir.org/2020/1/e15428/",
