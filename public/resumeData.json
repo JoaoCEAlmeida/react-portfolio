@@ -154,6 +154,12 @@
         "category": "Slack Clone built with ReactJS, REDUX, Styled components & Firebase Hooks",
         "image": "slack-clone.jpg",
         "url": "https://slack-clone-95372.web.app/"
+      },
+      {
+        "title": "Google Docs Clone",
+        "category": "Google Docs Clone built with NextJS, Tailwind, draft-js, Firebase and Vercel",
+        "image": "google-docs-clone.jpg",
+        "url": "https://google-docs-clone-joaocealmeida.vercel.app/"
       }
     ]
   },
